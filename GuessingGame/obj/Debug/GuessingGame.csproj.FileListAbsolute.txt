@@ -1,0 +1,29 @@
+D:\FI MUNI\4. semester\C#\Homeworks\GuessingGame\GuessingGame\bin\Debug\GuessingGame.exe.config
+D:\FI MUNI\4. semester\C#\Homeworks\GuessingGame\GuessingGame\bin\Debug\GuessingGame.exe
+D:\FI MUNI\4. semester\C#\Homeworks\GuessingGame\GuessingGame\bin\Debug\GuessingGame.pdb
+D:\FI MUNI\4. semester\C#\Homeworks\GuessingGame\GuessingGame\obj\Debug\GuessingGame.csprojAssemblyReference.cache
+D:\FI MUNI\4. semester\C#\Homeworks\GuessingGame\GuessingGame\obj\Debug\MainWindow.g.cs
+D:\FI MUNI\4. semester\C#\Homeworks\GuessingGame\GuessingGame\obj\Debug\App.g.cs
+D:\FI MUNI\4. semester\C#\Homeworks\GuessingGame\GuessingGame\obj\Debug\GuessingGame_MarkupCompile.cache
+D:\FI MUNI\4. semester\C#\Homeworks\GuessingGame\GuessingGame\obj\Debug\GuessingGame_MarkupCompile.lref
+D:\FI MUNI\4. semester\C#\Homeworks\GuessingGame\GuessingGame\obj\Debug\MainWindow.baml
+D:\FI MUNI\4. semester\C#\Homeworks\GuessingGame\GuessingGame\obj\Debug\GuessingGame.g.resources
+D:\FI MUNI\4. semester\C#\Homeworks\GuessingGame\GuessingGame\obj\Debug\GuessingGame.Properties.Resources.resources
+D:\FI MUNI\4. semester\C#\Homeworks\GuessingGame\GuessingGame\obj\Debug\GuessingGame.csproj.GenerateResource.cache
+D:\FI MUNI\4. semester\C#\Homeworks\GuessingGame\GuessingGame\obj\Debug\GuessingGame.csproj.CoreCompileInputs.cache
+D:\FI MUNI\4. semester\C#\Homeworks\GuessingGame\GuessingGame\obj\Debug\GuessingGame.exe
+D:\FI MUNI\4. semester\C#\Homeworks\GuessingGame\GuessingGame\obj\Debug\GuessingGame.pdb
+D:\FI MUNI\4. semester\C#\Homeworks\GuessingGame\GuessingGame\obj\Debug\GuessingGame_Content.g.cs
+D:\FI MUNI\4. semester\C#\Homeworks\GuessingGame\GuessingGame\obj\Debug\GuessingGame.csproj.CopyComplete
+D:\FI MUNI\4. semester\C#\Homeworks\GuessingGame\GuessingGame\bin\Debug\PlayersDB.db
+D:\FI MUNI\4. semester\C#\Homeworks\GuessingGame\GuessingGame\bin\Debug\Dapper.dll
+D:\FI MUNI\4. semester\C#\Homeworks\GuessingGame\GuessingGame\bin\Debug\System.Data.SQLite.dll
+D:\FI MUNI\4. semester\C#\Homeworks\GuessingGame\GuessingGame\bin\Debug\Dapper.xml
+D:\FI MUNI\4. semester\C#\Homeworks\GuessingGame\GuessingGame\bin\Debug\System.Data.SQLite.xml
+D:\FI MUNI\4. semester\C#\Homeworks\GuessingGame\GuessingGame\bin\Debug\System.Data.SQLite.dll.config
+D:\FI MUNI\4. semester\C#\Homeworks\GuessingGame\GuessingGame\obj\Debug\User Controls\ChoosePlaySet.g.cs
+D:\FI MUNI\4. semester\C#\Homeworks\GuessingGame\GuessingGame\obj\Debug\User Controls\ShowImage.g.cs
+D:\FI MUNI\4. semester\C#\Homeworks\GuessingGame\GuessingGame\obj\Debug\User Controls\StartMenu.g.cs
+D:\FI MUNI\4. semester\C#\Homeworks\GuessingGame\GuessingGame\obj\Debug\User Controls\ChoosePlaySet.baml
+D:\FI MUNI\4. semester\C#\Homeworks\GuessingGame\GuessingGame\obj\Debug\User Controls\ShowImage.baml
+D:\FI MUNI\4. semester\C#\Homeworks\GuessingGame\GuessingGame\obj\Debug\User Controls\StartMenu.baml
